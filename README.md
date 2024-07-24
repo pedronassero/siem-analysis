@@ -27,7 +27,7 @@ The process involved extracting IP addresses from the VM honeypot logs using a P
 Integrating with Azure Sentinel to obtain the location of attempted intrusions.
 By integrations with the ipgeolocation API, Sentinel can provide insights into the geographic location of attackers.
 
-![map](https://github.com/user-attachments/assets/72e6d5e4-87aa-4b6b-9647-82f231a35a00)
+![maap](https://github.com/user-attachments/assets/e5a04ab5-20c2-4f56-9cd0-68ce572f20a0)
 
 
 ## Conclusion 🖇️
